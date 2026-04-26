@@ -180,24 +180,6 @@ brew install --cask macshot
 | `S` | Select & Edit |
 | `E` | Open in Editor |
 
-</details>
 
----
 
-## Permissions
 
-macshot requires **Screen Recording** permission. macOS will prompt you on first capture.
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sw33tLie/macshot&type=Date)](https://star-history.com/#sw33tLie/macshot&Date)
-
-## Requirements
-
-macOS 12.3 (Monterey) or later.
-
-## License
-
-[GPLv3](LICENSE)
